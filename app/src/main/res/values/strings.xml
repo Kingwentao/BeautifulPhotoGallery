@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeautifulPhotoGallery</string>
+        <integer-array name="test_arr">
+            <item>@drawable/photo_nba1</item>
+            <item>@drawable/photo_nba2</item>
+            <item>@drawable/photo_nba3</item>
+            <item>@drawable/photo_nba4</item>
+            <item>@drawable/photo_nba5</item>
+            <item>@drawable/photo_nba6</item>
+            <item>@drawable/photo_nba7</item>
+            <item>@drawable/photo_nba8</item>
+            <item>@drawable/photo_nba9</item>
+        </integer-array>
+</resources>
